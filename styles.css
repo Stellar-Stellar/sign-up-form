@@ -1,0 +1,10 @@
+div {
+    text-align: center;
+    color:aqua;
+    background-color: black;
+    @font-face {
+        font-family: Norse-Bold;
+        src: url(Norse-Bold);
+    }
+    font-size: 48px;
+}
