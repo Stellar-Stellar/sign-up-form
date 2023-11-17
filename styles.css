@@ -1,3 +1,7 @@
+body {
+    display:flex
+}
+
 div {
     text-align: center;
     color:aqua;
